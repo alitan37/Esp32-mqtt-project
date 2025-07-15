@@ -159,7 +159,7 @@ function updateLedStatus(command) {
     return;
   }
   const indicator = ledStatus.querySelector(".status-indicator");
-  const statusText = ledStatus.querySelector("span");
+  const statusText = ledStatus.querySelector("span#durum");
   if (command === "ON") {
     indicator.className = "status-indicator on";
     statusText.textContent = "Status: LED ON";
