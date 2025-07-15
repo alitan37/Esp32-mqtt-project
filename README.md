@@ -58,7 +58,7 @@ The system uses MQTT protocol for reliable communication between the web interfa
 
 ### Live Simulation
 Test the system without physical hardware:
-**[🔗 Wokwi Simulation](https://wokwi.com/projects/418425453311975425)**
+**[🔗 Wokwi Simulation](https://wokwi.com/projects/436474193194535937)**
 
 ### How to Test:
 1. Click the simulation link above
