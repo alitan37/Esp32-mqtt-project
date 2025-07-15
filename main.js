@@ -1,6 +1,6 @@
 // MQTT Configuration
 const MQTT_BROKER = "wss://broker.emqx.io:8084/mqtt";
-const MQTT_TOPIC = "OpenCV-IoT6601";
+const MQTT_TOPIC = "role/led";
 let client = null;
 let messageCount = 0;
 
